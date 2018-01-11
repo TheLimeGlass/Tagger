@@ -1,0 +1,6 @@
+name: Tagger
+author: LimeGlass
+description: A Skript addon dedicated to making Packet handled nametags.
+version: 1.0.0
+main: me.limeglass.tagger.Tagger
+depend: [Skript]
